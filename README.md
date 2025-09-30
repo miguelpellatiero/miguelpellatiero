@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**miguelpellatiero/miguelpellatiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, sou Miguel Pellatiero! 👋
 
-Here are some ideas to get you started:
+🎓 **Estudante de Desenvolvimento de Sistemas**  
+Etec Profª Ilza Nascimento Pintus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Principais habilidades:**  
+- Python  
+- JavaScript  
+- Desenvolvimento Web  
+- Web Design  
+
+🚀 **Projetos em destaque:**
+- [PegPizza Cardápio](https://github.com/miguelpellatiero/pegpizza-cardapio)
+- [Cardápio Ludos](https://github.com/miguelpellatiero/cardapio-ludos)
+- [Controle Financeiro](https://github.com/miguelpellatiero/controle-financeiro)
+- [Portfólio Miguel](https://github.com/miguelpellatiero/portifolio-miguel) – Meu site pessoal
+
+🌐 **Portfólio Online:**  
+Acesse meu site: [Portfólio Miguel](https://miguelpellatiero.github.io/portifolio-miguel/)
+
+📱 **Redes sociais:**  
+[Instagram](https://www.instagram.com/mg_pll/?next=%2F)
+
+---
+
+🎯 **Hobbies e interesses:**  
+- Praticante de Jiu-Jitsu 🥋  
+- Fotógrafo 📸  
+- Corrida 🏃  
+- Leitura (livros de suspense e autoajuda) 📖  
+- Academia 🏋️  
+- Skate 🛹  
+
+💡 *Sempre em busca de novos desafios e aprendizados na área de tecnologia!*
