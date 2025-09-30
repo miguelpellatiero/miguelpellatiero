@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá, sou Miguel Pellatiero! 👋
 
 🎓 **Estudante de Desenvolvimento de Sistemas**  
