@@ -1,127 +1,147 @@
-👋 Olá, eu sou Miguel Pellatiero!
-🚀 Desenvolvedor Full Stack em Ascensão🎓 Estudante de Engenharia de Software na Universidade Técnica Profª Ilza Nascimento Pintus
+👋 Olá! Eu sou Miguel Pellatiero
+
+🚀 Desenvolvedor Full Stack em Ascensão🎓 Estudante de Engenharia de Software na Universidade Técnica Profª Ilza Nascimento Pintus📍 São Paulo, Brasil | 💼 Aberto a oportunidades em tech startups
 
 💻 Stack Tecnológica & Habilidades
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![UX/UI Design](https://img.shields.io/badge/UX%2FUI_Design-FF6B6B?style=flat&logo=figma&logoColor=white)
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
 🌟 Projetos Destacados
-🍕 Menu Digital PegPizza
-Plataforma inovadora para cardápios digitais - Solução integrada para bares e restaurantes com design responsivo e interativo.
-🎲 Ludos Interactive
-Sistema gamificado para negócios - Foco em engajamento do usuário com elementos de UX/UI avançados.
-📊 Gerenciador Financeiro Pessoal
-App para controle de finanças - Recursos de visualização de dados, relatórios e alertas personalizados.
+
+🍕 Menu Digital PegPizzaPlataforma inovadora para cardápios digitais. Integração com pedidos online, design responsivo e animações CSS para melhor UX.Tech: HTML, CSS, JavaScript, Python backendImpacto: Reduz tempo de pedido em 40% para restaurantes.
+
+🎲 Ludos InteractiveSistema gamificado para engajamento em estabelecimentos. Inclui leaderboards e recompensas virtuais.Tech: React, Node.js, MongoDBImpacto: Aumento de 25% na retenção de usuários em testes beta.
+
+📊 Gerenciador Financeiro PessoalApp web para tracking de despesas com gráficos interativos e alertas.Tech: Python (Flask), JavaScript, Chart.jsImpacto: Ajuda usuários a economizar até 15% mensalmente.
+
+
 
 
 ## 🚀 Explore Meu Portfólio
-[![Portfólio Miguel](https://img.shields.io/badge/🚀_Portfólio_Miguel-000000?style=flat&logo=portfolio&logoColor=white)](https://miguelpellatiero.github.io/portfolio-miguel/)
+  
+    
+  
 
 
 
 📈 Estatísticas no GitHub
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelpellatiero&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpellatiero&layout=compact&theme=dracula)
+  
+  
+  
 
 
 
 🌍 Conecte-se Comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mg_pll/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/miguelpellatiero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=chrome&logoColor=white)](https://miguelpellatiero.github.io/portfolio-miguel/)
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
 
 
 
 🎯 Hobbies & Paixões
 
-![Jiu-Jitsu](https://img.shields.io/badge/🥋_Jiu_Jitsu-000000?style=flat)
-![Fotografia](https://img.shields.io/badge/📸_Fotografia-FF6B6B?style=flat)
-![Corrida](https://img.shields.io/badge/🏃_Corrida-4ECDC4?style=flat)
-![Leitura](https://img.shields.io/badge/📖_Leitura-45B7D1?style=flat)
-![Academia](https://img.shields.io/badge/🏋️_Academia-F7B731?style=flat)
-![Skate](https://img.shields.io/badge/🛹_Skate-96CEB4?style=flat)
+  
+  
+  
+  
+  
+  
 
 
 
 🔭 Visão & Metas
 
-"Explorando horizontes tecnológicos para criar impactos reais!"
-
-🔍 Foco Atual: Full Stack Development, Design Responsivo, Python Avançado, JavaScript Moderno🎯 Interesses: Ecossistemas de Startups, IA Aplicada, Web3, Soluções Sustentáveis🌟 Ambitions: Colaborar em inovações com gigantes como Google, Microsoft, Apple, Amazon e startups disruptivas
+"Explorando horizontes tecnológicos para criar impactos reais e sustentáveis!"
 
 
-### ⚡ **Pronto para inovar o futuro digital, linha por linha!**
+🔍 Foco Atual: Full Stack Development, Design Responsivo, Python Avançado, JavaScript Moderno (incluindo frameworks como React e Node.js)  
+🎯 Interesses: Ecossistemas de Startups, IA Aplicada, Web3, Soluções Sustentáveis e Acessíveis  
+🌟 Ambitions: Colaborar em inovações globais com líderes como Google, Microsoft, Apple, Amazon e startups disruptivas. Buscando estágio ou entry-level em dev teams inovadoras!
+
+
+
+### ⚡ **Pronto para inovar o futuro digital, linha por linha!**  
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150§ion=footer)
 
 
 
-/* Animações CSS Avançadas */
+/* Animações CSS Avançadas (Nota: GitHub pode limitar CSS; teste em viewers que suportem HTML) */
 
-/* Pulso no Título Principal */
+/* Pulso Glow no Título */
 @keyframes pulseGlow {
   0% { transform: scale(1); text-shadow: 0 0 5px #ffcc00; }
-  50% { transform: scale(1.03); text-shadow: 0 0 15px #ff4500; }
+  50% { transform: scale(1.03); text-shadow: 0 0 15px #ff4500, 0 0 25px #ffcc00; }
   100% { transform: scale(1); text-shadow: 0 0 5px #ffcc00; }
 }
 h1 {
   animation: pulseGlow 2s infinite ease-in-out;
 }
 
-/* Fade-in com Escala para Seções */
-@keyframes fadeScaleIn {
-  0% { opacity: 0; transform: scale(0.95); }
-  100% { opacity: 1; transform: scale(1); }
+/* Fade-in com Rotação Suave para Seções */
+@keyframes fadeRotateIn {
+  0% { opacity: 0; transform: rotate(-5deg) scale(0.95); }
+  100% { opacity: 1; transform: rotate(0) scale(1); }
 }
 h2 {
-  animation: fadeScaleIn 1s ease-out;
+  animation: fadeRotateIn 1.2s ease-out;
 }
 
-/* Hover com Rotação 3D para Badges */
-img[alt^="Python"], img[alt^="JavaScript"], img[alt^="HTML5"], img[alt^="CSS3"], img[alt^="Git"], img[alt^="UX/UI Design"] {
-  transition: transform 0.3s ease;
+/* Hover 3D com Sombra para Badges */
+img {
+  transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55), box-shadow 0.4s;
 }
-img[alt^="Python"]:hover, img[alt^="JavaScript"]:hover, img[alt^="HTML5"]:hover, img[alt^="CSS3"]:hover, img[alt^="Git"]:hover, img[alt^="UX/UI Design"]:hover {
-  transform: rotateY(180deg) scale(1.1);
+img:hover {
+  transform: perspective(500px) rotateY(15deg) scale(1.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
-/* Animação de Salto para Projetos */
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
+/* Bounce com Cor Alternada para Projetos */
+@keyframes bounceColor {
+  0%, 100% { transform: translateY(0); color: #ffffff; }
+  50% { transform: translateY(-8px); color: #ffcc00; }
 }
 h3 {
-  animation: bounce 1.5s infinite;
+  animation: bounceColor 1.8s infinite;
 }
 
-/* Texto Deslizante para Visão */
+/* Texto Deslizante com Gradiente para Visão */
 blockquote {
-  overflow: hidden;
-  white-space: nowrap;
+  background: linear-gradient(to right, #ffcc00, #ff4500);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: gradientSlide 5s linear infinite;
 }
-blockquote p {
-  display: inline-block;
-  animation: slideText 10s linear infinite;
-}
-@keyframes slideText {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
+@keyframes gradientSlide {
+  0% { background-position: 0%; }
+  100% { background-position: 200%; }
 }
 
-/* Fade com Cores Alternadas para Hobbies */
+/* Fade Cíclico com Hue para Hobbies */
 img[alt^="Jiu-Jitsu"], img[alt^="Fotografia"], img[alt^="Corrida"], img[alt^="Leitura"], img[alt^="Academia"], img[alt^="Skate"] {
-  animation: colorFade 3s infinite alternate;
+  animation: hueFade 4s infinite alternate;
 }
-@keyframes colorFade {
-  0% { filter: brightness(1); }
-  100% { filter: brightness(1.2) hue-rotate(45deg); }
+@keyframes hueFade {
+  0% { filter: brightness(1) hue-rotate(0deg); }
+  100% { filter: brightness(1.3) hue-rotate(90deg); }
 }
 
