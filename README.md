@@ -98,3 +98,81 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+<style>
+/* Estilos Gerais */
+body {
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+  background-color: #000000;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Animação Avançada: Pulse no Título */
+@keyframes pulse {
+  0% { transform: scale(1); text-shadow: 0 0 5px #ffffff; }
+  50% { transform: scale(1.05); text-shadow: 0 0 15px #ffcc00; }
+  100% { transform: scale(1); text-shadow: 0 0 5px #ffffff; }
+}
+.greeting {
+  animation: pulse 2s infinite ease-in-out;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+/* Animação Avançada: Fade e Crescimento com Oscilação para Seções */
+@keyframes fadeAndGrow {
+  0% { opacity: 0; transform: scale(0.9) translateY(20px); }
+  50% { opacity: 0.7; transform: scale(1.1) translateY(-10px); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+.section-title {
+  animation: fadeAndGrow 1.5s ease-in-out;
+  font-size: 1.5em;
+  margin-top: 20px;
+  border-bottom: 1px solid #333333;
+  padding-bottom: 5px;
+}
+
+/* Animação Avançada: Salto com Cores para Badges de Habilidades */
+@keyframes bounceColor {
+  0% { transform: translateY(0) rotate(0); background-color: #1e90ff; }
+  50% { transform: translateY(-10px) rotate(5deg); background-color: #ff4500; }
+  100% { transform: translateY(0) rotate(0); background-color: #1e90ff; }
+}
+.skill-badge {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+  animation: bounceColor 3s infinite alternate;
+  cursor: pointer;
+}
+
+/* Animação Avançada: Rotação 3D em Hover para Projetos */
+.project-item {
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+}
+.project-item:hover {
+  transform: rotateY(10deg) scale(1.05);
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+
+/* Animação Avançada: Movimento e Rotação para Ícones de Conexão */
+@keyframes moveRotate {
+  0% { transform: translateX(0) rotate(0); }
+  50% { transform: translateX(10px) rotate(180deg); }
+  100% { transform: translateX(0) rotate(360deg); }
+}
+.connect-icon {
+  display: inline-block;
+  margin: 5px;
+  animation: moveRotate 4s infinite linear;
+}
+
+/* Animação Avançada: Texto Deslizante com Escala para Objetivos */
+@keyframes slideGrow {
+  0% { transform: translateX(100%) scale(0.8); color: #ffffff; }
+  50% { transform:
